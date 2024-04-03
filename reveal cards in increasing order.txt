@@ -1,0 +1,133 @@
+class Solution:
+    def deckRevealedIncreasing(self, deck: List[int]) -> List[int]:
+        deck.sort()
+        res=[]
+        for i in reversed(deck):
+            if res:
+                l_c=res.pop()
+                res.insert(0,l_c)
+            res.insert(0,i)
+        return list(res)
+
+
+        class Solution:
+    def deckRevealedIncreasing(self, deck: List[int]) -> List[int]:
+        deck.sort()
+        res=[]
+        for i in reversed(deck):
+            if res:
+                l_c=res.pop()
+                res.insert(0,l_c)
+            res.insert(0,i)
+        return list(res)
+
+
+        class Solution:
+    def deckRevealedIncreasing(self, deck: List[int]) -> List[int]:
+        deck.sort()
+        res=[]
+        for i in reversed(deck):
+            if res:
+                l_c=res.pop()
+                res.insert(0,l_c)
+            res.insert(0,i)
+        return list(res)
+
+
+        class Solution:
+    def deckRevealedIncreasing(self, deck: List[int]) -> List[int]:
+        deck.sort()
+        res=[]
+        for i in reversed(deck):
+            if res:
+                l_c=res.pop()
+                res.insert(0,l_c)
+            res.insert(0,i)
+        return list(res)
+
+
+        class Solution:
+    def deckRevealedIncreasing(self, deck: List[int]) -> List[int]:
+        deck.sort()
+        res=[]
+        for i in reversed(deck):
+            if res:
+                l_c=res.pop()
+                res.insert(0,l_c)
+            res.insert(0,i)
+        return list(res)
+
+
+        class Solution:
+    def deckRevealedIncreasing(self, deck: List[int]) -> List[int]:
+        deck.sort()
+        res=[]
+        for i in reversed(deck):
+            if res:
+                l_c=res.pop()
+                res.insert(0,l_c)
+            res.insert(0,i)
+        return list(res)
+
+
+        class Solution:
+    def deckRevealedIncreasing(self, deck: List[int]) -> List[int]:
+        deck.sort()
+        res=[]
+        for i in reversed(deck):
+            if res:
+                l_c=res.pop()
+                res.insert(0,l_c)
+            res.insert(0,i)
+        return list(res)
+
+
+        class Solution:
+    def deckRevealedIncreasing(self, deck: List[int]) -> List[int]:
+        deck.sort()
+        res=[]
+        for i in reversed(deck):
+            if res:
+                l_c=res.pop()
+                res.insert(0,l_c)
+            res.insert(0,i)
+        return list(res)
+
+
+        class Solution:
+    def deckRevealedIncreasing(self, deck: List[int]) -> List[int]:
+        deck.sort()
+        res=[]
+        for i in reversed(deck):
+            if res:
+                l_c=res.pop()
+                res.insert(0,l_c)
+            res.insert(0,i)
+        return list(res)
+
+
+        class Solution:
+    def deckRevealedIncreasing(self, deck: List[int]) -> List[int]:
+        deck.sort()
+        res=[]
+        for i in reversed(deck):
+            if res:
+                l_c=res.pop()
+                res.insert(0,l_c)
+            res.insert(0,i)
+        return list(res)
+
+
+        class Solution:
+    def deckRevealedIncreasing(self, deck: List[int]) -> List[int]:
+        deck.sort()
+        res=[]
+        for i in reversed(deck):
+            if res:
+                l_c=res.pop()
+                res.insert(0,l_c)
+            res.insert(0,i)
+        return list(res)
+
+
+        
